@@ -2,6 +2,7 @@ Grading Contract
 ================
 January 21 2025
 
+<!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
 # Contract Grades – “A” Contract
 
@@ -29,7 +30,7 @@ I, Benjamin Egan, agree to :
 Note: This is an example schedule. You are welcomed and encouraged to
 rearrange these labs and events to fit your needs.
 
-- [ ] Module 01, 01/13 - 01/13 : What is Data Science and Meet the
+- [ ] Module 01, 01/13 - 01/17 : What is Data Science and Meet the
   Toolkit
 
   - Finish Lab 1 by Friday: 01/17
@@ -53,7 +54,8 @@ rearrange these labs and events to fit your needs.
   - Finish Lab 5 by Friday: 02/14
   - Finish portfolio piece 2 by Friday: 02/14
 
-- [ ] Module 06, 02/17 - 02/21 : Scientific Communication and confounding
+- [ ] Module 06, 02/17 - 02/21 : Scientific Communication and
+  confounding
 
   - Finish Lab 6 by Friday: 02/21
   - Schedule a check-in with Mason by Friday: 02/21
@@ -63,40 +65,40 @@ rearrange these labs and events to fit your needs.
   - Finish Lab 7 by Friday: 02/28
   - Finish portfolio piece 3 by Friday: 02/28
 
-- [ ] Module 08, 03/03 - 03/07 : Webscraping
+- [ ] Module 08, 03/03 - 03/07 : Web scraping
 
   - Finish Lab 8 by Friday: 03/07
 
-- [ ] Module 09, 03/17 - 03/21 : Ethics
+- [ ] Module 09, 03/10 - 03/14 : Spring Break
 
-  - Finish Lab 9 by Friday: 03/21
-  - Finish portfolio piece 4 by Friday: 03/21
+  - Spring break means no labs
 
-- [ ] Module 10, 03/24 - 03/28 : Tidy models
+- [ ] Module 10, 03/17 - 03/21 : Ethics
 
-  - Finish Lab 10 by Friday: 03/28
+  - Finish Lab 10 by Friday: 03/21
+    - Finish portfolio piece 4 by Friday: 03/21
 
-- [ ] Module 11, 03/31 - 04/04 : Overfitting and Cross validation
+- [ ] Module 11, 03/24 - 03/28 : Tidy Models
 
-  - Finish Lab 11 by Friday: 04/04
-  - Finish portfolio piece 5 by Friday: 04/04
+  - Finish Lab 11 by Friday: 03/28
+  - Finish portfolio piece 5 by Friday: 03/28
 
-- [ ] Module 12, 04/07 - 04/11 : Quantifying Uncertainty
+- [ ] Module 12, 03/31 - 04/04 : Overfitting and Cross validation
 
-  - Finish portfolio piece 6 by Friday: 04/11
+  - Finish portfolio piece 6 by Friday: 04/04
 
-- [ ] Module 13, 04/14 - 04/18 : Rshiny
+- [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
 
-  - Finish portfolio pieces 7 and 8 by Friday: 04/18
+  - Finish portfolio pieces 7 and 8 by Friday: 04/11
 
-- [ ] Module 14, 04/21 - 04/25 : Machine Learning
+- [ ] Module 14, 04/14 - 04/18 : Rshiny
 
-  - Finish portfolio piece 9 by Friday: 04/25
+  - Finish portfolio piece 9 by Friday: 04/18
 
-- [ ] Module 15, 04/17 - 04/21 : Special Topics
+- [ ] Module 15, 04/21 - 04/25 : Machine Learning
 
-  - Finish portfolio piece 10 by Friday: 04/21
+  - Finish portfolio piece 10 by Friday: 04/25
 
 - [ ] Portfolio completion and end-of-semester presentation
 
-  - Due on Friday: 04/21
+  - Due on Friday: 04/25

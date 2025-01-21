@@ -3,10 +3,10 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
+  weekonemonday: "2025-01-13"
   thesisdeadline: "2023-01-10"
-  springbreak: "2023-01-10"
-  name: Tukey Cat
+  springbreak: "2025-03-10"
+  name: Benjamin Egan
   labs: 11
   portfolios: 10
   grade:
@@ -120,20 +120,20 @@ startweek <- params$startweek
 topic = c(
   "What is Data Science and Meet the Toolkit",
   "Data and Visualization",
-  "Grammar of data wrangling",
+  "Welcome to the Tidyverse",
   "Data types and Data Transformations",
-  "Tips for effective data visualization",
-  "Scientific studies and confounding",
-  #  "Spring Break",#  "",
+  "Effective data visualization",
+  "Scientific Communication and confounding",
+   "Functions and Automation",
   "Web scraping",
-  "Functions",
-  "Data and Ethics",
-  "Fitting and interpreting models",
-  "Prediction and overfitting",
-  "Cross validation",
+     "Spring Break",
+  "Ethics",
+  "Tidy Models",
+  "Overfitting and Cross validation",
   "Quantifying uncertainty",
-  "Interactive web apps",
-  "Special Topics"
+  "Rshiny",
+  "Machine Learning",
+  "Presentations"
 )
 
 ```
@@ -183,10 +183,10 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r startweek`:  `r advdate(dayone, 8, assignment=startweek)`
 - [ ] `r advdate(dayone, 9, topic)`
-  - Finish Lab 9 by `r startweek`:  `r advdate(dayone, 9, assignment=startweek)`
-  - Finish portfolio piece 4 by `r startweek`:  `r advdate(dayone, 9, assignment=startweek)`
+  - Spring break means no labs
 - [ ] `r advdate(dayone, 10, topic)`
   - Finish Lab 10 by `r startweek`:  `r advdate(dayone, 10, assignment=startweek)`
+    - Finish portfolio piece 4 by `r startweek`:  `r advdate(dayone, 10, assignment=startweek)`
 - [ ] `r advdate(dayone, 11, topic)`
   `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",startweek,": ",advdate(dayone, 11, assignment=startweek))`
   - Finish portfolio piece 5 by `r startweek`:  `r advdate(dayone, 11, assignment=startweek)`
