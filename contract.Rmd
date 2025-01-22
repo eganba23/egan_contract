@@ -4,7 +4,6 @@ date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
   weekonemonday: "2025-01-13"
-  thesisdeadline: "2023-01-10"
   springbreak: "2025-03-10"
   name: Benjamin Egan
   labs: 11
@@ -135,6 +134,7 @@ topic = c(
   "Machine Learning",
   "Presentations"
 )
+date <- now()
 
 ```
 
@@ -159,7 +159,7 @@ I, `r params$name`, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
+
 
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by `r startweek`:  `r advdate(dayone, 1, assignment=startweek)`

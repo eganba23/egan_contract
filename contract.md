@@ -27,8 +27,7 @@ I, Benjamin Egan, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
+Updated as of: date
 
 - [ ] Module 01, 01/13 - 01/17 : What is Data Science and Meet the
   Toolkit
