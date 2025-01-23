@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 21 2025
+January 22 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -26,8 +26,6 @@ I, Benjamin Egan, agree to :
     pieces. 10 minutes total in length.
 
 ## SCHEDULE
-
-Updated as of: date
 
 - [ ] Module 01, 01/13 - 01/17 : What is Data Science and Meet the
   Toolkit
