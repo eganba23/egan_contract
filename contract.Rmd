@@ -183,7 +183,7 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r startweek`:  `r advdate(dayone, 8, assignment=startweek)`
 - [ ] `r advdate(dayone, 9, topic)`
-  - Spring break means no labs
+  - Spring break means no labs. Will be backpacking the AT. Computers and woods don't mix
 - [ ] `r advdate(dayone, 10, topic)`
   - Finish Lab 10 by `r startweek`:  `r advdate(dayone, 10, assignment=startweek)`
     - Finish portfolio piece 4 by `r startweek`:  `r advdate(dayone, 10, assignment=startweek)`
