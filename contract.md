@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 22 2025
+January 27 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -68,7 +68,8 @@ I, Benjamin Egan, agree to :
 
 - [ ] Module 09, 03/10 - 03/14 : Spring Break
 
-  - Spring break means no labs
+  - Spring break means no labs. Will be backpacking the AT. Computers
+    and woods don’t mix
 
 - [ ] Module 10, 03/17 - 03/21 : Ethics
 
